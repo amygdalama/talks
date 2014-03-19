@@ -1,9 +1,3 @@
-This is a talk that explores Python internals by attempting to replace the `import` keyword/statement with `accio`. I cover:
+Replacing `import` with `accio`! Compiling Pythons with Custom Grammar for the sake of a joke!
 
-* how to access and easily remove/overwrite Python builtin functions interactively in a Python interpreter)
-
-* what Python statements are, and why overwriting Python statements is hard (but overwriting Python builtin functions is easy)
-
-* where to find the definitions of Python statements in the CPython source code (this is much less scary/overwhelming than it sounds, I promise! It's all in a very easy-to-read Grammar file.)
-
-* why making changes to Python's Grammar and then recompiling doesn't always work (spoiler alert: it's because half of CPython is written in Python!), and how to use bootstrapping to work around this
+In Python, overwriting builtin functions is fairly easy. You can even do it in the interpreter! But can you overwrite a statement, like `import`, just as easily? Let's go on an adventure, discovering how the `import` statement works, and how Python statements are defined in the CPython source code. We'll face some consequences of bootstrapping, and, to get our custom Harry Potter-themed Grammar to work, we'll have to compile a Python to compile a Python.
