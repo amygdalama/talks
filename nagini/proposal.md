@@ -1,4 +1,4 @@
-Replacing `import` with `accio`! Compiling Pythons with Custom Grammar for the sake of a joke!
+Replacing `import` with `accio`: Compiling Pythons with Custom Grammar for the sake of a joke!
 
 ##Abstract
 
@@ -6,7 +6,7 @@ In Python, overwriting builtin functions is fairly easy. You can even do it in t
 
 ##Timeline
 
-* Builtins: What's in the `__builtin__` module and can you do mischievous things like shadow or delete builtins?
+* Builtins: What's in the `__builtin__` module and can we do mischievous things like shadow or delete builtins?
 * Import: Can we shadow/delete the import statement? How does the import statement work? Is it a builtin?
 * Grammar: Where is the import statement defined? We'll look at CPython's Grammar file to figure out what it means to be an import statement, and we'll try editing the Grammar file to create an accio statement instead.
 * Bootstrapping: When we compile our new Python (with accio instead of import), we'll get lots of errors! Why? It turns out about half of CPython is written in Python, so compiling Python requires Python on your computer! *Mind explodes!* We'll come face-to-face with the concept of bootstrapping, and have to compile a Python to compile another Python.
