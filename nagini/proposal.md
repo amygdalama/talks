@@ -39,3 +39,11 @@ I'm in the W'14 batch at Hacker School, where I've worked on projects like creat
 My background is in Theoretical Math. After college I optimized paid search ads for Adam & Eve, so I basically used to sell dildos on the internet (though my employer was Adlucent, an agency in Austin, TX). I then used machine learning via scikit-learn to automate tasks like classification of search queries into product categories.
 
 I will nerd out with you about sex toys, programming, science fiction, feminism, comics, Dune (I <3 Dune. Dune, Dune, Dune.), math, board games, etc. I also think it's fabulous to drink champagne in bed.
+
+###G-Rated Bio
+
+I'm in the W'14 batch at Hacker School, where I've worked on projects like creating sounds from spectrograms (huge failure) and replacing Python builtins and keywords with Harry Potter spells (huge success).
+
+My background is in Theoretical Math. After college I optimized paid search ads for Adam & Eve and some other retailers (though my employer was Adlucent, an agency in Austin, TX). I then used scikit-learn to automate tasks like classification of search queries into product categories.
+
+I will nerd out with you about programming, science fiction, feminism, comics, Dune (I <3 Dune. Dune, Dune, Dune.), math, board games, etc. I also think it's fabulous to drink champagne in bed.
